@@ -1,0 +1,9 @@
+<xml>
+	<config>
+		<log4j>DEBUG</log4j>
+		<serverip>10.60.60.100</serverip>
+		<serverport>8090</serverport>
+		<extension>3926</extension>
+		<retryinterval>30</retryinterval><!--In seconds. Interval between two connection attempt. Used for the first connection and when the connection is lost-->
+	</config>
+</xml>
